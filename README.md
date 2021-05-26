@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just another repository.
+My name is mp.
+Hello, gitty hub.
